@@ -1,7 +1,8 @@
 Buenas a tod@s!
 
 Este es el repositorio de la práctica 2 de Tipología y ciclo de vida de los datos donde
-trabajamos la introducciónva la limpieza y el análisis de los datos.
+trabajamos la introducciónva la limpieza y el análisis de los datos. Todo el trabajo está
+hecho en solitario por Oriol González Dalmau.
 
 En el repositorio podréis encontrar el código en la carpeta src donde se ejecutan las
 diferentes fases de preprocesado de datos, técnicas de estudio y descripción de las variables.
